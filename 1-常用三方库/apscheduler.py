@@ -1,7 +1,7 @@
 """
-@Time ： 2023/5/30 16:49
-@Auth ： 植树的牧羊人
-@desc : 定时任务
+@Time :  2023/5/30 16:49
+@Auth :  植树的牧羊人
+@desc :  定时任务
 """
 import datetime
 from apscheduler.schedulers.blocking import BlockingScheduler
